@@ -1,0 +1,17 @@
+{
+  "name": "ts-aoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianbrowning/advent-of-code.git"
+  },
+  "devDependencies": {
+    "type-testing": "^0.2.0"
+  },
+  "private": true
+}
